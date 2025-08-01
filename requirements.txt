@@ -4,8 +4,8 @@ numpy==1.24.4
 matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.2.2
-setuptools>=42
-wheel
 tensorflow==2.13.0
+setuptools==65.5.0
+wheel==0.40.0
 
 
